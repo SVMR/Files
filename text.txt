@@ -1,0 +1,15 @@
+.v-button.closeBtn{
+	font-family:Arial;
+	font-size:15px;
+	background-color: #b0c4de;
+	border:1px solid #e73737;
+	margin-left:15%;
+}
+.v-horizontallayout.hstyle{
+	background-color:#e6f3ff;
+}
+.v-image.img{
+	width:100px;
+	height:100px;
+	margin-left:35%;
+}
